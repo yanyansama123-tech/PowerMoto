@@ -1,0 +1,695 @@
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): the room is so very nice
+Translated Text (English): the room is so very nice
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"the room is so very nice","translated":"the room is so very nice","text":"the room is so very nice"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Positive
+✅ Final Sentiment: Positive
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): bad room
+
+Translated Text (English): bad room
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"bad room\r\n","translated":"bad room","text":"bad room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Negative
+✅ Final Sentiment: Negative
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang panget talaga ng rooms niyo
+Translated Text (English): your rooms are really ugly
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget talaga ng rooms niyo","translated":"your rooms are really ugly","text":"your rooms are really ugly"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Neutral
+✅ Final Sentiment: Neutral
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang panget ng room niyo
+Translated Text (English): the ugliness of your room
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room niyo","translated":"the ugliness of your room","text":"the ugliness of your room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Neutral
+✅ Final Sentiment: Neutral
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang ganda ng room niyo
+Translated Text (English): your room is beautiful
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo","translated":"your room is beautiful","text":"your room is beautiful"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Neutral
+✅ Final Sentiment: Neutral
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang panget ng room 
+Translated Text (English): the ugly room
+Trying command: "C:\xampp\htdocs\PowerMoto (3)\PowerMoto\PowerMoto\chatbot-deployment\venv\Scripts\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+No Python at '"C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command failed with status 103
+Trying command: py -3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: py -3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'py' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'python' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Trying command: python3 sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room ","translated":"the ugly room","text":"the ugly room"}
+STDOUT:
+
+STDERR:
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+
+Command failed with status 1
+Fallback parsed sentiment: 
+Using PHP fallback sentiment analyzer.
+PHP fallback result: Neutral
+✅ Final Sentiment: Neutral
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): panget
+Translated Text (English): 
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"panget","translated":"","text":""}
+STDOUT:
+{"label": "Negative", "score": -0.15, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='panget'
+scores={'compound': -0.15, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Negative
+
+Command succeeded.
+JSON parsed: label=Negative score=-0.15
+✅ Final Sentiment: Negative (score=-0.15)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): Ang ganda ng room
+Translated Text (English): The beauty of the room
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"Ang ganda ng room","translated":"The beauty of the room","text":"The beauty of the room"}
+STDOUT:
+{"label": "Positive", "score": 0.5859, "pos": 0.487, "neu": 0.513, "neg": 0.0}
+STDERR:
+DEBUG: text='The beauty of the room'
+scores={'compound': 0.5859, 'pos': 0.487, 'neu': 0.513, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.5859
+✅ Final Sentiment: Positive (score=0.5859)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang ganda talaga ng room nyo presko sa taas
+Translated Text (English): your room is really nice fresh upstairs
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda talaga ng room nyo presko sa taas","translated":"your room is really nice fresh upstairs","text":"your room is really nice fresh upstairs"}
+STDOUT:
+{"label": "Positive", "score": 0.838, "pos": 0.531, "neu": 0.469, "neg": 0.0}
+STDERR:
+DEBUG: text='your room is really nice fresh upstairs'
+scores={'compound': 0.838, 'pos': 0.531, 'neu': 0.469, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.838
+✅ Final Sentiment: Positive (score=0.838)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): bad
+Translated Text (English): kasalungat ng mabait
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"bad","translated":"kasalungat ng mabait","text":"kasalungat ng mabait"}
+STDOUT:
+{"label": "Positive", "score": 0.3, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='kasalungat ng mabait'
+scores={'compound': 0.3, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.3
+✅ Final Sentiment: Positive (score=0.3)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): the room is so bad
+Translated Text (English): the room is so bad
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so bad","translated":"the room is so bad","text":"the room is so bad"}
+STDOUT:
+{"label": "Negative", "score": -0.8196, "pos": 0.0, "neu": 0.471, "neg": 0.529}
+STDERR:
+DEBUG: text='the room is so bad'
+scores={'compound': -0.8196, 'pos': 0.0, 'neu': 0.471, 'neg': 0.529}
+label=Negative
+
+Command succeeded.
+JSON parsed: label=Negative score=-0.8196
+✅ Final Sentiment: Negative (score=-0.8196)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): THE
+Translated Text (English): If i were a song what a song am i
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"THE","translated":"If i were a song what a song am i","text":"If i were a song what a song am i"}
+STDOUT:
+{"label": "Neutral", "score": 0.0, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='If i were a song what a song am i'
+scores={'compound': 0.0, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Neutral
+
+Command succeeded.
+JSON parsed: label=Neutral score=0
+✅ Final Sentiment: Neutral (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): BAD
+
+Translated Text (English): kasalungat ng mabait
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"BAD\r\n","translated":"kasalungat ng mabait","text":"kasalungat ng mabait"}
+STDOUT:
+{"label": "Positive", "score": 0.3, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='kasalungat ng mabait'
+scores={'compound': 0.3, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.3
+Single-word input detected. Forcing Neutral.
+✅ Final Sentiment: Neutral (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): Panget
+Translated Text (English): 
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"Panget","translated":"","text":""}
+STDOUT:
+{"label": "Neutral", "score": 0.0}
+Command succeeded.
+JSON parsed: label=Neutral score=0
+Single-word input detected. Forcing Neutral.
+✅ Final Sentiment: Neutral (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): sakto lang ang ung kwarto
+Translated Text (English): the room is just right
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"sakto lang ang ung kwarto","translated":"the room is just right","text":"the room is just right"}
+STDOUT:
+{"label": "Neutral", "score": 0.0, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='the room is just right'
+scores={'compound': 0.0, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Neutral
+
+Command succeeded.
+JSON parsed: label=Neutral score=0
+✅ Final Sentiment: Neutral (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): bad
+Translated Text (English): kasalungat ng mabait
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"bad","translated":"kasalungat ng mabait","text":"kasalungat ng mabait"}
+STDOUT:
+{"label": "Positive", "score": 0.3, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='kasalungat ng mabait'
+scores={'compound': 0.3, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.3
+✅ Final Sentiment: Positive (score=0.3)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): panget
+Translated Text (English): 
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"panget","translated":"","text":""}
+STDOUT:
+{"label": "Negative", "score": -0.15, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='panget'
+scores={'compound': -0.15, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Negative
+
+Command succeeded.
+JSON parsed: label=Negative score=-0.15
+✅ Final Sentiment: Negative (score=-0.15)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang ganda ng room niyo no problem when it comes to the accomodation
+Translated Text (English): your room is beautiful no problem when it comes to the accomodation
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room niyo no problem when it comes to the accomodation","translated":"your room is beautiful no problem when it comes to the accomodation","text":"your room is beautiful no problem when it comes to the accomodation"}
+STDOUT:
+{"label": "Negative", "score": 0.0, "pos": 0.219, "neu": 0.506, "neg": 0.275}
+STDERR:
+DEBUG: text='your room is beautiful no problem when it comes to the accomodation'
+scores={'compound': 0.0, 'pos': 0.219, 'neu': 0.506, 'neg': 0.275}
+label=Negative
+
+Command succeeded.
+JSON parsed: label=Negative score=0
+✅ Final Sentiment: Negative (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang ganda ng room nyo talaga
+Translated Text (English): your room is really beautiful
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang ganda ng room nyo talaga","translated":"your room is really beautiful","text":"your room is really beautiful"}
+STDOUT:
+{"label": "Positive", "score": 0.7861, "pos": 0.512, "neu": 0.488, "neg": 0.0}
+STDERR:
+DEBUG: text='your room is really beautiful'
+scores={'compound': 0.7861, 'pos': 0.512, 'neu': 0.488, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.7861
+✅ Final Sentiment: Positive (score=0.7861)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): the room is so great no problem when it comes to accommodation.
+Translated Text (English): the room is so great no problem when it comes to accommodation.
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"the room is so great no problem when it comes to accommodation.","translated":"the room is so great no problem when it comes to accommodation.","text":"the room is so great no problem when it comes to accommodation."}
+STDOUT:
+{"label": "Positive", "score": 0.20209999999999997, "pos": 0.266, "neu": 0.457, "neg": 0.276}
+STDERR:
+DEBUG: text='the room is so great no problem when it comes to accommodation.'
+scores={'compound': 0.20209999999999997, 'pos': 0.266, 'neu': 0.457, 'neg': 0.276}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.2021
+✅ Final Sentiment: Positive (score=0.2021)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang panget ng room nyo sobra
+Translated Text (English): the roof of the room is too much
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room nyo sobra","translated":"the roof of the room is too much","text":"the roof of the room is too much"}
+STDOUT:
+{"label": "Neutral", "score": 0.0, "pos": 0.0, "neu": 1.0, "neg": 0.0}
+STDERR:
+DEBUG: text='the roof of the room is too much'
+scores={'compound': 0.0, 'pos': 0.0, 'neu': 1.0, 'neg': 0.0}
+label=Neutral
+
+Command succeeded.
+JSON parsed: label=Neutral score=0
+✅ Final Sentiment: Neutral (score=0)
+
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): ang panget ng room nyo
+Translated Text (English): the ugly of your room
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"ang panget ng room nyo","translated":"the ugly of your room","text":"the ugly of your room"}
+STDOUT:
+{"label": "Negative", "score": -0.5106, "pos": 0.0, "neu": 0.548, "neg": 0.452}
+STDERR:
+DEBUG: text='the ugly of your room'
+scores={'compound': -0.5106, 'pos': 0.0, 'neu': 0.548, 'neg': 0.452}
+label=Negative
+
+Command succeeded.
+JSON parsed: label=Negative score=-0.5106
+✅ Final Sentiment: Negative (score=-0.5106)
+
+Exception: cURL error 6: Could not resolve host: api.mymemory.translated.net (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.mymemory.translated.net/get?q=the%20room%20is%20great&langpair=tl%7Cen
+Exception: cURL error 6: Could not resolve host: api.mymemory.translated.net (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.mymemory.translated.net/get?q=good&langpair=tl%7Cen
+Exception: cURL error 6: Could not resolve host: api.mymemory.translated.net (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.mymemory.translated.net/get?q=goods&langpair=tl%7Cen
+Exception: cURL error 6: Could not resolve host: api.mymemory.translated.net (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.mymemory.translated.net/get?q=good%0D%0A&langpair=tl%7Cen
+==== NEW FEEDBACK ANALYSIS ====
+Original Text (Tagalog): good
+Translated Text (English): good
+Trying command: "C:\Users\acer\AppData\Local\Programs\Python\Python312\python.exe" -u sentiment_analysis.py
+Payload to Python: {"original":"good","translated":"good","text":"good"}
+STDOUT:
+{"label": "Positive", "score": 0.5904, "pos": 1.0, "neu": 0.0, "neg": 0.0}
+STDERR:
+DEBUG: text='good'
+scores={'compound': 0.5904, 'pos': 1.0, 'neu': 0.0, 'neg': 0.0}
+label=Positive
+
+Command succeeded.
+JSON parsed: label=Positive score=0.5904
+✅ Final Sentiment: Positive (score=0.5904)
+
